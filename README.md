@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/arjungagneja/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arjungagneja/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/arjungagneja/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/arjungagneja/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/arjungagneja/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/arjungagneja/LeetCode/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arjungagneja/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/arjungagneja/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/arjungagneja/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/arjungagneja/LeetCode/tree/master/0268-missing-number) |
 | [3945-digit-frequency-score](https://github.com/arjungagneja/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/arjungagneja/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/arjungagneja/LeetCode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/arjungagneja/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/arjungagneja/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/arjungagneja/LeetCode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arjungagneja/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/arjungagneja/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/arjungagneja/LeetCode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/arjungagneja/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Prefix Sum
 |  |
@@ -76,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/arjungagneja/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/arjungagneja/LeetCode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -85,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arjungagneja/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/arjungagneja/LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
