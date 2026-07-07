@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/arjungagneja/LeetCode/tree/master/0009-palindrome-number) |
+| [2469-convert-the-temperature](https://github.com/arjungagneja/LeetCode/tree/master/2469-convert-the-temperature) |
 | [3945-digit-frequency-score](https://github.com/arjungagneja/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
