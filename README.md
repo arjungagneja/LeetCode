@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arjungagneja/LeetCode/tree/master/0001-two-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/arjungagneja/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/arjungagneja/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/arjungagneja/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/arjungagneja/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/arjungagneja/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
