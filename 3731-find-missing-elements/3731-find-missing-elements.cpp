@@ -1,22 +1,18 @@
 class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) {
-        sort (nums.begin(), nums.end());
-        int max = nums[nums.size() - 1];
-        int min = nums[0];
-        int n = 1, i = 0,temp = n + min;
+        sort(nums.begin(), nums.end());
+        int temp = nums[0];
         vector<int> ans;
-        while(temp<max)
-        {
-            temp = n + min;
-            if (binary_search(nums.begin(), nums.end(), temp)) {
-                n++;
-            }
-            else {
+        for (int i = 0; i < nums.size(); i++) {
+            if (temp == nums[i])
+                temp++;
+            else 
+            {
                 ans.push_back(temp);
-                n++;
+                temp++;
+                i--;
             }
-
         }
         return ans;
     }
