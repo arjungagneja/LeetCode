@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/arjungagneja/LeetCode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/arjungagneja/LeetCode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/arjungagneja/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/arjungagneja/LeetCode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arjungagneja/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/arjungagneja/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/arjungagneja/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/arjungagneja/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arjungagneja/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/arjungagneja/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/arjungagneja/LeetCode/tree/master/1051-height-checker) |
 | [2418-sort-the-people](https://github.com/arjungagneja/LeetCode/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/arjungagneja/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -205,4 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/arjungagneja/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/arjungagneja/LeetCode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/arjungagneja/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
