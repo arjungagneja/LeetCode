@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/arjungagneja/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arjungagneja/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/arjungagneja/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/arjungagneja/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arjungagneja/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arjungagneja/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/arjungagneja/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/arjungagneja/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arjungagneja/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/arjungagneja/LeetCode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/arjungagneja/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/arjungagneja/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/arjungagneja/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/arjungagneja/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/arjungagneja/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/arjungagneja/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/arjungagneja/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/arjungagneja/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arjungagneja/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arjungagneja/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/arjungagneja/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
