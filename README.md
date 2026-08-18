@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/arjungagneja/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/arjungagneja/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/arjungagneja/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/arjungagneja/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/arjungagneja/LeetCode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/arjungagneja/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/arjungagneja/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/arjungagneja/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
