@@ -18,29 +18,20 @@ public:
             curr = curr->next;
         }
         curr = head;
-        int last = count - k + 1, i = 1, temp1, temp2;
+        int last = count - k + 1, i = 1;
+        ListNode* first;
+        ListNode* second;
         while (i <= count) {
             if (i == k) {
-                temp1 = curr->val;
+                first = curr;
             }
             if (i == last) {
-                temp2 = curr->val;
+                second = curr;
             }
             curr = curr->next;
             i++;
         }
-        i = 1;
-        curr = head;
-        while (i <= count) {
-            if (i == k) {
-                curr->val = temp2;
-            }
-            if (i == last) {
-                curr->val = temp1;
-            }
-            curr = curr->next;
-            i++;
-        }
+        swap(first->val, second->val);
         return head;
     }
 };
