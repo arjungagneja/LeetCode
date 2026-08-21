@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/arjungagneja/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/arjungagneja/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/arjungagneja/LeetCode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/arjungagneja/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/arjungagneja/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/arjungagneja/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/arjungagneja/LeetCode/tree/master/0066-plus-one) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arjungagneja/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/arjungagneja/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arjungagneja/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/arjungagneja/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/arjungagneja/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/arjungagneja/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/arjungagneja/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/arjungagneja/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/arjungagneja/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arjungagneja/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/arjungagneja/LeetCode/tree/master/0392-is-subsequence) |
@@ -291,9 +294,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/arjungagneja/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/arjungagneja/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/arjungagneja/LeetCode/tree/master/0707-design-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/arjungagneja/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
