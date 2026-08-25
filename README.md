@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/arjungagneja/LeetCode/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/arjungagneja/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arjungagneja/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/arjungagneja/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/arjungagneja/LeetCode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/arjungagneja/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/arjungagneja/LeetCode/tree/master/0724-find-pivot-index) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/arjungagneja/LeetCode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arjungagneja/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/arjungagneja/LeetCode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/arjungagneja/LeetCode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/arjungagneja/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/arjungagneja/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/arjungagneja/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/arjungagneja/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/arjungagneja/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arjungagneja/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/arjungagneja/LeetCode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/arjungagneja/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/arjungagneja/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/arjungagneja/LeetCode/tree/master/1051-height-checker) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/arjungagneja/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/arjungagneja/LeetCode/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/arjungagneja/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Sliding Window
@@ -323,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arjungagneja/LeetCode/tree/master/0014-longest-common-prefix) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/arjungagneja/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
