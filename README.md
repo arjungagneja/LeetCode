@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arjungagneja/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/arjungagneja/LeetCode/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/arjungagneja/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1903-largest-odd-number-in-string](https://github.com/arjungagneja/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2469-convert-the-temperature](https://github.com/arjungagneja/LeetCode/tree/master/2469-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/arjungagneja/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/arjungagneja/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/arjungagneja/LeetCode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/arjungagneja/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/arjungagneja/LeetCode/tree/master/0796-rotate-string) |
+| [1903-largest-odd-number-in-string](https://github.com/arjungagneja/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/arjungagneja/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2418-sort-the-people](https://github.com/arjungagneja/LeetCode/tree/master/2418-sort-the-people) |
 | [3110-score-of-a-string](https://github.com/arjungagneja/LeetCode/tree/master/3110-score-of-a-string) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/arjungagneja/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1323-maximum-69-number](https://github.com/arjungagneja/LeetCode/tree/master/1323-maximum-69-number) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/arjungagneja/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1903-largest-odd-number-in-string](https://github.com/arjungagneja/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/arjungagneja/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sliding Window
 |  |
