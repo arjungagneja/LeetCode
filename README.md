@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/arjungagneja/LeetCode/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/arjungagneja/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arjungagneja/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/arjungagneja/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/arjungagneja/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/arjungagneja/LeetCode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/arjungagneja/LeetCode/tree/master/0704-binary-search) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/arjungagneja/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arjungagneja/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/arjungagneja/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/arjungagneja/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2418-sort-the-people](https://github.com/arjungagneja/LeetCode/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/arjungagneja/LeetCode/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/arjungagneja/LeetCode/tree/master/3945-digit-frequency-score) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/arjungagneja/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/arjungagneja/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arjungagneja/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/arjungagneja/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/arjungagneja/LeetCode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/arjungagneja/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/arjungagneja/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
