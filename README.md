@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/arjungagneja/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/arjungagneja/LeetCode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arjungagneja/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/arjungagneja/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1480-running-sum-of-1d-array](https://github.com/arjungagneja/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/arjungagneja/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/arjungagneja/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/arjungagneja/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/arjungagneja/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/arjungagneja/LeetCode/tree/master/1051-height-checker) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/arjungagneja/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/arjungagneja/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/arjungagneja/LeetCode/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/arjungagneja/LeetCode/tree/master/3731-find-missing-elements) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/arjungagneja/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/arjungagneja/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1323-maximum-69-number](https://github.com/arjungagneja/LeetCode/tree/master/1323-maximum-69-number) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/arjungagneja/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/arjungagneja/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/arjungagneja/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/arjungagneja/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
