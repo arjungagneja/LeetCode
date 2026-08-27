@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/arjungagneja/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/arjungagneja/LeetCode/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/arjungagneja/LeetCode/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/arjungagneja/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/arjungagneja/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/arjungagneja/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/arjungagneja/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/arjungagneja/LeetCode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/arjungagneja/LeetCode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/arjungagneja/LeetCode/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/arjungagneja/LeetCode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/arjungagneja/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/arjungagneja/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/arjungagneja/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/arjungagneja/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/arjungagneja/LeetCode/tree/master/0289-game-of-life) |
+| [0867-transpose-matrix](https://github.com/arjungagneja/LeetCode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/arjungagneja/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
