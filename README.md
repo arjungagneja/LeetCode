@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/arjungagneja/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/arjungagneja/LeetCode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arjungagneja/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/arjungagneja/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/arjungagneja/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/arjungagneja/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1480-running-sum-of-1d-array](https://github.com/arjungagneja/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/arjungagneja/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/arjungagneja/LeetCode/tree/master/0289-game-of-life) |
 | [0867-transpose-matrix](https://github.com/arjungagneja/LeetCode/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/arjungagneja/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/arjungagneja/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/arjungagneja/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/arjungagneja/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/arjungagneja/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/arjungagneja/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/arjungagneja/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
