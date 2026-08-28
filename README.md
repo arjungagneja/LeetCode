@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/arjungagneja/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/arjungagneja/LeetCode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arjungagneja/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/arjungagneja/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/arjungagneja/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1480-running-sum-of-1d-array](https://github.com/arjungagneja/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/arjungagneja/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/arjungagneja/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arjungagneja/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arjungagneja/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/arjungagneja/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2418-sort-the-people](https://github.com/arjungagneja/LeetCode/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/arjungagneja/LeetCode/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/arjungagneja/LeetCode/tree/master/3945-digit-frequency-score) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/arjungagneja/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/arjungagneja/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/arjungagneja/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/arjungagneja/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/arjungagneja/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
