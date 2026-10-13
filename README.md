@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/arjungagneja/LeetCode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/arjungagneja/LeetCode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/arjungagneja/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/arjungagneja/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/arjungagneja/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/arjungagneja/LeetCode/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/arjungagneja/LeetCode/tree/master/1903-largest-odd-number-in-string) |
