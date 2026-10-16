@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/arjungagneja/LeetCode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arjungagneja/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/arjungagneja/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/arjungagneja/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/arjungagneja/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/arjungagneja/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1480-running-sum-of-1d-array](https://github.com/arjungagneja/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/arjungagneja/LeetCode/tree/master/0289-game-of-life) |
 | [0867-transpose-matrix](https://github.com/arjungagneja/LeetCode/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/arjungagneja/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/arjungagneja/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/arjungagneja/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
