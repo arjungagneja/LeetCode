@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/arjungagneja/LeetCode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arjungagneja/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/arjungagneja/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arjungagneja/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/arjungagneja/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/arjungagneja/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/arjungagneja/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/arjungagneja/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arjungagneja/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arjungagneja/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arjungagneja/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/arjungagneja/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/arjungagneja/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2418-sort-the-people](https://github.com/arjungagneja/LeetCode/tree/master/2418-sort-the-people) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/arjungagneja/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/arjungagneja/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/arjungagneja/LeetCode/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arjungagneja/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/arjungagneja/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/arjungagneja/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/arjungagneja/LeetCode/tree/master/2418-sort-the-people) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/arjungagneja/LeetCode/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arjungagneja/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bubble Sort
 |  |
 | ------- |
